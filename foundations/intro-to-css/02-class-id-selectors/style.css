@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.pink-background {
+  background-color: pink;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#r2dblue {
+  color: blue;
+  font-size: 36px;
+}
+
+.biggie {
+  font-size: 24px;
+}
+
+#numbero-four {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
